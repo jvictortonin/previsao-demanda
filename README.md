@@ -34,7 +34,7 @@ previsao-demanda/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/<SEU_USUARIO>/previsao-demanda.git
+git clone https://github.com/jvictortonin/previsao-demanda.git
 cd previsao-demanda
 ```
 
